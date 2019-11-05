@@ -5,8 +5,8 @@
  *
  * font: see http://freedesktop.org/software/fontconfig/fontconfig-user.html
  */
-static char *font = "mono:pixelsize=16:antialias=true:autohint=true";
-static char *font2[] = { "Inconsolata for Powerline:pixelsize=16:antialias=true:autohint=true" };
+static char *font = "mono:pixelsize=26:antialias=true:autohint=true";
+static char *font2[] = { "Inconsolata for Powerline:pixelsize=26:antialias=true:autohint=true" };
 static int borderpx = 2;
 
 /*
@@ -84,7 +84,7 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 /* bg opacity */
-float alpha = 0.92;
+float alpha = 0.86;
 
 /* Terminal colors (16 first used in escape sequence) */
 static const char *colorname[] = {
