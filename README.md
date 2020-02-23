@@ -1,2 +1,5 @@
-# My fork of Luke's fork of st
-literally just changed the opacity and background colour. 
+# My fork of st 
+
+## Features
+* Dracula color theme. 
+* Scrollback
